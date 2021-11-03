@@ -4,6 +4,9 @@ matplotlib
 mne
 nose
 numpy
+panda
 pandas
+plotly
+python-qt
 scipy
 sympy
