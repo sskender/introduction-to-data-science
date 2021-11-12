@@ -10,3 +10,15 @@ Learning Outcomes:
 - Apply statistics and computational analysis to make predictions based on data
 - Describe the outcome of data analysis using descriptive statistics and visualizations
 - Use cluster and cloud infrastructure to perform data-intensive computation
+
+## Getting started
+
+Install requirements:
+```bash
+python -m pip install -r requirements.txt
+```
+
+Run notebook:
+```bash
+jupyter notebook
+```
