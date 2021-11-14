@@ -1,7 +1,10 @@
+EntropyHub
+antropy
 ipython
 jupyter
 matplotlib
 mne
+mne-features
 nose
 numpy
 panda
