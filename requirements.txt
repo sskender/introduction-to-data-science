@@ -11,5 +11,6 @@ panda
 pandas
 plotly
 python-qt
+scikit-learn
 scipy
 sympy
