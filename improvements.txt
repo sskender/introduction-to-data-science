@@ -1,0 +1,6 @@
+additional filtering
+https://jasmainak.github.io/mne-workshop-brown/preprocessing/filtering
+
+crop 5min - 30s
+
+min-max scale as average for every person
